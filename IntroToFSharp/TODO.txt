@@ -1,0 +1,32 @@
+# Intro to tooling
+
+Paket 
+Fake
+
+# Language
+
+Single pass compiler
+Let and functions
+Object Expressions
+Records with
+Unions
+Match
+Lists
+Pipelines
+Open & Imports
+Modules and generics
+Result type
+async
+C#/.NET interop
+Computation Expressions
+Type Providers
+
+# Interesting
+
+Json Serialisation
+
+# Libraries
+
+Expecto 
+Giraffe and Saturn
+Routing and aspnet
